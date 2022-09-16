@@ -3,6 +3,6 @@
 - 🔭 I’m currently working as a Junior Lecturer at the Vrije Universiteit Amsterdam
 - 👯 I’m looking to collaborate on any AI related projects
 - 💬 You can ask me pretty much anything!
-- 📫 How to reach me: via my Linkedin account which you can access [here] (https://www.linkedin.com/in/b%C3%BClent-%C3%BCndes-81772a198/?locale=en_US)   
+- 📫 How to reach me: via my Linkedin account which you can access [here](https://www.linkedin.com/in/b%C3%BClent-%C3%BCndes-81772a198/?locale=en_US)   
 - ⚡ Fun fact: I have the worst sense of direction, which is why friends call ironically me Mr.Kompass
 
