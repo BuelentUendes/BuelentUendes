@@ -6,3 +6,4 @@
 - 📫 How to reach me: via my Linkedin account which you can access [here](https://www.linkedin.com/in/b%C3%BClent-%C3%BCndes-81772a198/?locale=en_US)   
 - ⚡ Fun fact: I have the worst sense of direction, which is why friends call me ironically Mr.Kompass
 
+You can find out more about my work at my [personal webpage](https://buelentuendes.github.io/).
